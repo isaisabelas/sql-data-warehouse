@@ -11,7 +11,7 @@ The data architecture of this project follows the Medallion framework with three
 3 - Gold Layer: Contains business-ready data, structured in a star schema to support reporting and analytics.
 
 --- 
-###Project Overview 
+### Project Overview 
 
 --- 
 ### Project Requirements 
