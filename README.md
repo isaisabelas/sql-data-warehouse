@@ -15,7 +15,8 @@ The data architecture of this project follows the Medallion framework with three
 
 --- 
 ### Project Requirements 
-*Goal* 
+*Goal:*
+<br>
 Build a modern Data Warehouse with SQL Server to consolidate sales data, enabling analytical reporting and informed decision making. 
 
 *Specifications:*
@@ -27,7 +28,8 @@ Build a modern Data Warehouse with SQL Server to consolidate sales data, enablin
 ---
 
 ### BI: Analytics & Reporting (Data Analysis) 
-*Goal* 
+*Goal:* 
+<br>
 Develop SQL-based analytics to deliver detailes insights to: 
 
 - Customer behavior
