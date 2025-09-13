@@ -1,6 +1,5 @@
-# sql-data-warehouse
+# Data Warehouse & Analytics 
 
-**Data Warehouse and Analytics Project** 
 This project consists on a comprehensive data warehousing and analytics solution, all the way from building a data warehouse to generating actionable insights. 
 Done while following [Data WithBaraa](https://github.com/DataWithBaraa)'s class. My goal is to understand the principles of how an end to end ELT/ELT process works, along with best practices for building data projects. 
 
