@@ -5,9 +5,9 @@ Done while following [Data WithBaraa](https://github.com/DataWithBaraa)'s class.
 
 ---
  ### Data Architecture
-The data architecture of this project follows the Medallion framework with three layers:
-1 - Bronze Layer: Holds the raw data extracted from source systems, ingested from CSV files into SQL Server.
-2 - Silver Layer: Focuses on data cleaning, standardization, and normalization to make the information ready for analysis.
+The data architecture of this project follows the Medallion framework with three layers:<br>
+1 - Bronze Layer: Holds the raw data extracted from source systems, ingested from CSV files into SQL Server.<br>
+2 - Silver Layer: Focuses on data cleaning, standardization, and normalization to make the information ready for analysis.<br>
 3 - Gold Layer: Contains business-ready data, structured in a star schema to support reporting and analytics.
 
 --- 
