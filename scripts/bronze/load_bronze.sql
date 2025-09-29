@@ -8,6 +8,9 @@ This stored proceedure load data into the 'bronze' schema from externa CSV files
 1- Truncates the bronze tables before loading data. (Deletes all information in the table) 
 2- Uses 'BULK INSERT' to load data from CSV files to bronze tables. 
 
+Usage Example: 
+ EXEC bronze.load_bronze;
+
 =====================================================================
 */
 
@@ -134,4 +137,5 @@ BEGIN
 		PRINT '=========================================='
 	END CATCH
 END
+
 
